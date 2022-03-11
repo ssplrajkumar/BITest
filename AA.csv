@@ -1,0 +1,17 @@
+﻿Reporting_Type,AA_name,Date_DDMMYYYY,Time_HHMMSS,Type,Name,FI_Type,Count_linked,Average_timelag_FI_Notification,FI_Ready_to_FI_request_ratio,Count_Consent_Raised,Actioned_to_raised_ratio,Approved_to_raised_ratio,Daily_FI_Ready_to_FI_request_ratio,Daily_Consent_Requests_Data_Delivered,Total_Consent_Requests_Data_Delivered,Consent_Requests_Data_Delivered_To_Raised_Ratio,Daily_Consent_Requests_Raised,Daily_Consent_Requests_Data_Delivered_To_Raised_Ratio
+AA-FIP,Onemoney,11-03-2022,235959,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,12-03-2022,235960,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,13-03-2022,235961,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,14-03-2022,235962,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,15-03-2022,235963,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,16-03-2022,235964,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,17-03-2022,235965,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,18-03-2022,235966,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,19-03-2022,235967,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,20-03-2022,235968,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,21-03-2022,235969,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,22-03-2022,235970,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,23-03-2022,235971,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,24-03-2022,235972,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,25-03-2022,235973,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
+AA-FIP,Onemoney,26-03-2022,235974,FIP,AXIS,A,22,111,100.00%,1,2.00%,1.00%,1,1,1,1,2,1
